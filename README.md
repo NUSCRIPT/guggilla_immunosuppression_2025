@@ -1,7 +1,8 @@
 # Identifying immunosuppression
 
 _Owner: Vijeeth Guggilla_
-_Paper: INSERT_
+
+_Guggilla, V. et al. Large language models outperform traditional structured data-based approaches in identifying immunosuppressed patients. 2025.01.16.25320564 Preprint at https://doi.org/10.1101/2025.01.16.25320564 (2025)._
 
 ## Overview
 Identifying immunosuppressive conditions and immunosuppressive medications using structured data (diagnosis codes, medication orders) and using LLMs.
