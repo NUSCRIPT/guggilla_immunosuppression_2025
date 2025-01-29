@@ -4,7 +4,7 @@ _Owner: Vijeeth Guggilla_
 _Paper: INSERT_
 
 ## Overview
-Identifying immunosuppressive conditions and immunosuppressive medication using structured data (diagnosis codes, medication orders) and using LLMs
+Identifying immunosuppressive conditions and immunosuppressive medications using structured data (diagnosis codes, medication orders) and using LLMs.
 
 ## Files
 - **edw_queries/**: this folder contains the SQL queries for pulling all SCRIPT patients diagnosis codes and dates for patients with a given immunosuppressive condition. it also contains Meds.sql for pulling medication information.

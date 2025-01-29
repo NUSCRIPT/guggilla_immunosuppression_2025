@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+title: LLM Identification of Immunosuppression
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Vijeeth
+    family-names: Guggilla
+    email: vijeeth.guggilla@northwestern.edu
+    affiliation: Northwestern University Feinberg School of Medicine
+    orcid: 'https://orcid.org/0000-0001-9132-514X'
+  - given-names: Mengjia
+    family-names: Kang
+    email: marjorie.kang@northwestern.edu
+    affiliation: Northwestern University Feinberg School of Medicine
+    orcid: 'https://orcid.org/0000-0002-1679-9473'
+  - given-names: Theresa
+    family-names: Walunas
+    email: t-walunas@northwestern.edu
+    affiliation: Northwestern University Feinberg School of Medicine
+    orcid: 'https://orcid.org/0000-0002-7653-3650'
+  - given-names: Catherine
+    family-names: Gao
+    email: catherine.gao@northwestern.edu
+    affiliation: Northwestern University Feinberg School of Medicine
+    orcid: 'https://orcid.org/0000-0001-5576-3943'
+repository-code: >-
+  https://github.com/NUSCRIPT/guggilla_immunosuppression_2025
+abstract: >-
+  Identifying immunosuppressive conditions and
+  immunosuppressive medications using structured data
+  (diagnosis codes, medication orders) and using LLMs.
+keywords:
+  - Immunosuppression
+  - LLM
